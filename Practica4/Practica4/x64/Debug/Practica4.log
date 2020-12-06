@@ -1,0 +1,4 @@
+﻿  Clase.cpp
+C:\Users\Portal Center\Documents\Uni\Octavo\VisionCompu\cc++\Practica4\Practica4\Clase.cpp(85,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Portal Center\Documents\Uni\Octavo\VisionCompu\cc++\Practica4\Practica4\Clase.cpp(102,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Practica4.vcxproj -> C:\Users\Portal Center\Documents\Uni\Octavo\VisionCompu\cc++\Practica4\x64\Debug\Practica4.exe
